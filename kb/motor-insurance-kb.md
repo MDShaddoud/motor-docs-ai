@@ -55,3 +55,8 @@ AR: لا يستطيع المساعد تقديم الأسعار أو تأكيد �
 ## Privacy of your documents
 EN: Your documents are used only to process your insurance file. Please do not send documents that belong to other people unless they are part of this policy.
 AR: تُستخدم مستنداتك فقط لمعالجة ملف التأمين الخاص بك. يُرجى عدم إرسال مستندات تخص أشخاصاً آخرين إلا إذا كانت جزءاً من هذه الوثيقة.
+
+
+## Types of motor insurance
+EN: There are two main types of motor insurance in the UAE. Third-party liability insurance is the legal minimum: it covers damage or injury you cause to other people and their property, but not damage to your own car. Comprehensive insurance covers third-party liability plus damage to your own car, for example from accidents, fire or theft. Some comprehensive policies offer agency repair, meaning repairs at the brand's official dealer. The exact cover, options and price depend on the policy and are confirmed by the team.
+AR: يوجد نوعان رئيسيان من تأمين المركبات في الإمارات. تأمين المسؤولية تجاه الغير هو الحد الأدنى المطلوب قانونياً، ويغطي الأضرار أو الإصابات التي تسببها للآخرين ولممتلكاتهم، لكنه لا يغطي الأضرار التي تلحق بسيارتك. أما التأمين الشامل فيغطي المسؤولية تجاه الغير بالإضافة إلى الأضرار التي تلحق بسيارتك، مثل الحوادث أو الحريق أو السرقة. بعض وثائق التأمين الشامل توفر الإصلاح لدى الوكالة، أي الإصلاح لدى الوكيل الرسمي للعلامة التجارية. التغطية والخيارات والسعر بالتحديد تعتمد على الوثيقة ويؤكدها الفريق.
